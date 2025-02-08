@@ -5,13 +5,13 @@ export default siteConfig({
 
   rootNotionSpaceId: null,
 
-  name: 'pop3r',
+  name: '******',
   domain: 'blog.theisa.cn',
-  author: 'pop3r',
+  author: '******',
 
   description: 'Example Next.js Notion Starter Kit Site',
 
-  github: 'pop3r0',
+  github: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
